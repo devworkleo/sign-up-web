@@ -13,7 +13,7 @@ Formulário simples de registro e acesso para uso em uma ferramenta ou plafatorm
 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-- Visualizar [Sign Up Web Dev](https://sign-up-web-dev.vercel.app "Visualizar Sign Up") em Produção 
+- Visualizar [Sign Up Web Dev](https://sign-up-web.vercel.app "Visualizar Sign Up") em Produção 
 
 # 🚀 Como executar o projeto
 
