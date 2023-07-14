@@ -7,6 +7,21 @@ export const Layout = styled.div`
     align-items: center;
     justify-content: center;
 `
+export const BackgroundCircle = styled.div`
+    z-index: -1;
+    content: '';
+    width: 350%;
+    height: 350%;
+    top: -200%;
+    left: 0px;
+    border-radius: 50%;
+    position: absolute;
+    background-color: #88CAC9;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+`
 export const Image = styled.img``
 export const Title = styled.span``
 export const Message = styled.span``

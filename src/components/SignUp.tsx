@@ -1,5 +1,5 @@
 import { InfoCircleOutlined, UserOutlined, MailOutlined, LockOutlined } from '@ant-design/icons'
-import { SignUpLayout, SignUpForm, AlreadyHaveAnAccount, Title, Message, Text, Image } from "../global"
+import { SignUpLayout, SignUpForm, AlreadyHaveAnAccount, Title, Message, Text, Image, BackgroundCircle } from "../global"
 import { Form, Button, Input, Tooltip } from "antd"
 import { useForm } from 'antd/lib/form/Form'
 import { PiArrowRight } from "react-icons/pi"
@@ -25,6 +25,7 @@ export const SignUp = () => {
     console.log(form)
   }
   return <SignUpLayout>
+    <BackgroundCircle />
     <Image src={'./asset.png'} />
     { updateComponent ? <SignUpForm>
       <Title>Crie seu primeiro acesso</Title>

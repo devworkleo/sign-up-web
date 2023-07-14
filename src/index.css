@@ -11,6 +11,7 @@
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 body {
+  overflow: hidden;
   background-color: #71B6B5;
   /* background-color: #88CAC9; */
 }
