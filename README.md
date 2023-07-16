@@ -1,28 +1,33 @@
-# Sobre o projeto
+# Sign Up - Desafio Ui Challenge
 
-Formulário simples de registro e acesso para uso em uma ferramenta ou plafatorma.
+## 💬 Sobre
 
-## 💻 Tecnologias
+Esse projeto é um desafio de design proposto pelo site [Collect Ui](https://collectui.com/challenges "Ver desafios"). Formulário simples de registro e acesso para uso em uma ferramenta ou plafatorma. 
 
-![TypeSCript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+Estou sempre em busca de desafios, novas tecnologias, novos projetos, novas experiências, e esse foi mais um dos projetos que me proporcionou isso.
+
+## ☁ Demonstração
+
+- Visualizar [Sign Up](https://sign-up-web.vercel.app "Visualizar Sign Up") em Produção.
+
+## 💻Tecnologias 
+
 ![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeSCript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 💻 Hospedagem
+## 📝 Como executar o projeto
 
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-- Visualizar [Sign Up Web Dev](https://sign-up-web.vercel.app "Visualizar Sign Up") em Produção 
-
-# 🚀 Como executar o projeto
+- Abra seu editor de código (Visual Studio Code) e siga os seguinte passos:
 
 ```bash
 # Clonar repositório
-git clone https://github.com/devworkleo/sign-up-web.git sign-up
+git clone https://github.com/devworkleo/sign-up-web
 
 # Entrar na pasta do projeto
-cd sign-up
+cd sign-up-web
 
 # Instalar dependências
 yarn
@@ -30,3 +35,43 @@ yarn
 # Executar o projeto
 yarn dev
 ```
+
+## 🚀 Contribuição
+
+Seu interesse em contribuir para este projeto é muito bem-vindo! A contribuição da comunidade é o que torna esse projeto mais robusto e significativo. Se você é analista de sistemas, desenvolvedor ou apenas alguém apaixonado pela área, aqui estão algumas maneiras pelas quais você pode contribuir:
+
+### 💬 Relatando Problemas (Issues)
+
+Se você encontrar algum problema durante o uso do sistema ou tiver alguma sugestão de melhoria, por favor, abra uma issue. Certifique-se de fornecer detalhes suficientes para que possamos entender o problema e replicá-lo. Inclua etapas reproduzíveis, logs de erro (se aplicável) e o contexto do ambiente em que o problema ocorreu.
+
+### ⚡ Enviando Pull Requests (PRs)
+
+Se você deseja corrigir um bug ou implementar um novo recurso, ficaremos felizes em revisar sua solicitação de pull. Antes de enviar um PR, certifique-se de seguir essas etapas:
+
+### ⚡ Fork este repositório para o seu próprio perfil.
+
+```bash
+# Crie uma branch para suas alterações
+git sign-up-web -b feature/sua-feature ou git sign-up-web -b bugfix/seu-bug
+
+# Faça as alterações necessárias e commit
+git commit -m 'Descrição das alterações'.
+
+# Empurre as alterações para o seu repositório
+git push origin feature/sua-feature ou git push origin bugfix/seu-bug.
+```
+Abra um PR (pull request) neste repositório apontando para sua branch.
+Participando de Discussões
+Participe das discussões abertas nas issues e nos PRs. Suas ideias e opiniões são valiosas e ajudarão a melhorar o sistema.
+
+### 📝 Melhorando a Documentação
+
+Você pode ajudar a melhorar a documentação deste projeto. Se você acha que algo está faltando ou pode ser melhor explicado, fique à vontade para propor alterações.
+
+### 🚀 Compartilhando o Projeto
+
+Ajude a aumentar o impacto deste projeto compartilhando-o com seus colegas e em suas redes sociais. Quanto mais pessoas conhecerem e utilizarem este sistema, mais valiosas serão suas contribuições.
+
+Lembre-se de seguir o código de conduta do projeto durante todas as interações. Respeite os demais colaboradores e mantenha um ambiente amigável e inclusivo para todos.
+
+Agradecemos a todos que dedicam seu tempo para melhorar este projeto e torná-lo uma ferramenta cada vez melhor para a comunidade. Juntos, podemos fazer a diferença!
