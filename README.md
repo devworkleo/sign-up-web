@@ -2,7 +2,9 @@
 
 ## 💬 Sobre
 
-Esse projeto é um desafio de design proposto pelo site [Collect Ui](https://collectui.com/challenges "Ver desafios"). Formulário simples de registro e acesso para uso em uma ferramenta ou plafatorma. Esta aplicação web é uma ideia de formulário onde seria possível permitir que os usuários se inscrevam facilmente em seu site ou serviço, coletando informações essenciais de maneira eficaz e segura.
+Esse projeto é um desafio de design proposto pelo site [Collect Ui](https://collectui.com/challenges "Ver desafios"). Formulário simples de registro e acesso para uso em uma ferramenta ou plafatorma.
+
+Esta aplicação web é uma ideia de formulário onde seria possível permitir que os usuários se inscrevam facilmente em seu site ou serviço, coletando informações essenciais de maneira eficaz e segura.
 
 ## ☁ Demonstração
 
